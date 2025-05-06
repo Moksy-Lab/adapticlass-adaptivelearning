@@ -1,0 +1,56 @@
+✔ Basic Project Info
+Project Name: AdaptiClass
+
+⸻
+
+✔ Purpose:
+Deliver an adaptive, data-driven digital marketing education platform that adjusts learning content, pace, and difficulty based on individual learner progress, performance, and preferences—empowering users to master digital marketing in a way that fits them best.
+
+⸻
+
+✔ Training Type:
+Adaptive Learning for Digital Marketing
+
+⸻
+
+✔ Category:
+Edtech
+
+⸻
+
+✔ Sub-category:
+AI-Powered Marketing Education & Skills Development
+
+⸻
+
+✔ Inspiration:
+Coursera Plus, Khan Academy, Knewton Alta, Google Digital Garage, Duolingo-style progress mechanics
+
+⸻
+
+✔ Target Audience:
+🔹 Beginner Marketers
+🔹 Career Switchers Entering Digital Fields
+🔹 University Students & Recent Grads
+🔹 Entrepreneurs & Freelancers
+🔹 Learners in Underserved or Remote Areas
+
+⸻
+
+✔ Design & Style:
+Visual Style: Clean, vibrant, and modular interface with gamified progress indicators and adaptive content panels—designed for clarity, focus, and motivation.
+
+⸻
+
+✔ Keywords:
+🔹 Adaptive Learning Paths
+🔹 Personalized Marketing Curriculum
+🔹 Skill-Level Detection
+🔹 Self-Paced Guided Lessons
+🔹 Progress-Based Content
+🔹 AI Learning Optimization
+
+⸻
+
+✔ Showcase:
+AdaptiClass transforms how digital marketing is learned by blending adaptive learning technology with structured content design. Whether a learner is breezing through SEO or struggling with analytics, the platform dynamically adjusts to offer tailored practice, real-time suggestions, and motivational nudges. With gamified progression, checkpoint quizzes, and personalized content sequences, AdaptiClass ensures every learner gets a custom journey toward digital marketing mastery—efficient, effective, and empowering.

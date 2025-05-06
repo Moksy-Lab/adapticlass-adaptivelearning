@@ -1,0 +1,82 @@
+16. Adaptive Learning – Training that adjusts content based on learner progress.
+1. Navbar
+Logo, anchor links (Overview, Features, How It Works, Pricing), and a clear CTA like “Start Free Trial” or “Get Demo”.
+
+2. Hero Section
+Strong, personalised headline (e.g., “Learning That Adapts to You”) with a short subheadline and CTA button like “Start Learning Smarter”.
+
+3. What is Adaptive Learning?
+Brief explanation of adaptive learning—how the platform modifies content in real-time based on learner performance and needs.
+
+4. Why Adaptive Learning Matters
+Icons or bullet points highlighting benefits like personalised experiences, faster mastery, higher engagement, and better retention.
+
+5. How It Works
+Simple visual or step-by-step guide:
+
+Take initial assessment →
+
+Get a personalised learning path →
+
+Adaptive adjustments as you progress →
+
+Achieve mastery faster.
+
+6. Key Features
+Highlight major adaptive features like:
+
+Real-time difficulty adjustments
+
+Smart quizzes and feedback
+
+Dynamic learning paths
+
+Progress analytics.
+
+7. Subjects / Courses Offered
+Showcase areas where adaptive learning is available (e.g., Math, Coding, Language Learning, Business Skills).
+
+8. Who Should Use It
+Define ideal users (students, corporate teams, teachers, universities) and their specific benefits.
+
+9. Demo Video or Interactive Preview
+Show a video or simulation where users can see how lessons and challenges adjust automatically.
+
+10. Learning Outcomes / Impact Stats
+Display metrics like “50% faster course completion” or “70% improvement in test scores”.
+
+11. Case Studies / Success Stories
+Real-world examples of individuals or organisations who succeeded with adaptive learning.
+
+12. Personalised Assessments
+Explain how the platform assesses user skills and creates a tailored plan from day one.
+
+13. Comparison Table
+Compare traditional static learning vs. adaptive learning in a clean, easy-to-read format.
+
+14. Integration Capabilities
+Mention if your system integrates with LMSs, CRMs, or corporate learning platforms.
+
+15. Data Privacy & Security
+Highlight how user data is protected, and ensure users about GDPR or other compliance standards.
+
+16. Pricing & Subscription Plans
+Show clear pricing options for individuals, institutions, or businesses, and free trials if available.
+
+17. Certifications or Badges
+Mention if learners earn certificates or micro-credentials upon course or skill path completion.
+
+18. FAQs
+Answer common questions about how adaptive learning works, accessibility, requirements, pricing, and certifications.
+
+19. Newsletter Signup
+Invite users to subscribe for platform updates, learning tips, and new course alerts.
+
+20. Request Demo / Get Started Form
+Capture user details (name, email, role) with a CTA like “See Adaptive Learning in Action”.
+
+21. Final CTA Banner
+Motivational ending section (e.g., “Discover a Learning Experience Built Just for You”) with a big CTA button.
+
+22. Footer
+Standard footer with logo, navigation links, privacy policy, terms of service, and social media icons.
