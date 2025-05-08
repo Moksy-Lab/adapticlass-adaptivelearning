@@ -1,6 +1,6 @@
 /* #natal(natalNavbar) #css starts  */
 .natalNavbar .logo {
-    max-height: 50px
+    max-height: 100px
 }
 
 .natalNavbar .navbar-open-icon {
@@ -736,12 +736,7 @@ li {
   margin-bottom: 10px;
   font-family: Montserrat;
 }
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
+
 table {
   width: 100%;
   border-collapse: collapse;
